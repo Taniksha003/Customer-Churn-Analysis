@@ -18,7 +18,7 @@ Customer Churn.csv: Dataset used for the analysis.
 Telco Customers Churn Analysis.pdf: Summary report of insights and recommendations.
 🚀 Running the Analysis
 Clone this repository:
-git clone [repository-link]
+git clone [https://github.com/Taniksha003/Customer-Churn-Analysis]
 Install dependencies (if needed):
 pip install pandas matplotlib seaborn
 Open the notebook and explore the analysis:
